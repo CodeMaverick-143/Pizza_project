@@ -36,7 +36,7 @@ Pizza Palace is a modern online pizza ordering platform built with Next.js and S
 
 1. Clone the repository
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/CodeMaverick-143/Pizza_project.git
    cd pizza-palace-next
    ```
 
